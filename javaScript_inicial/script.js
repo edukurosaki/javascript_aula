@@ -1,4 +1,31 @@
 
+function botao() {
+    alert('obrigado por clicar')
+}
+
+
+
+/*
+function soma(a, b) {
+    return a + b;
+}
+
+function validaIdade(idade) {
+    let validar;
+    if (idade>18) {
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar;
+}
+
+let idade = prompt('Digite a sua idade: ');
+console.log(validaIdade(idade));
+*/
+
+
+
 // Aula de Strings e variaves
 /*
 let nome = 'Eduardo'
@@ -27,9 +54,15 @@ if (idade>18) {
     alert("menor de idade nao podera entrar")
 }
 */
-
+/*
 let cont = 0
 while (cont <= 6) {
     alert(cont);
     cont++;
 }
+*/
+/*
+let a = 'oi'
+let b = 'alo'
+console.log(a + b + 1425+'-'+1519)
+*/
